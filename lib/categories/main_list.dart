@@ -32,7 +32,7 @@ class _MainListState extends State<MainList> {
       AssetImage('assets/images/1.png'),
       AssetImage('assets/images/1.png'),
       AssetImage('assets/images/1.png'),
-      AssetImage('assets/images/1.png'),
+      AssetImage('assets/images/2.png'),
 
     ];
     return Row(
